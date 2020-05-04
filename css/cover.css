@@ -197,6 +197,6 @@ body {
   position: absolute;
   width: 225px;
   height: 200px;
-  top: 263px;
-  left: 180px;
+  margin-left: -160px;
+  margin-top: -30px;
 }
